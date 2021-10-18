@@ -1,5 +1,5 @@
 # SEP11 Freedom Project
-by X
+by Marlen Penafort
 
 ## Context
 The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to X.
