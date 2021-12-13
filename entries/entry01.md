@@ -15,6 +15,7 @@ But, I also had a few ideas of what I wanted to include in an app. I, as many ot
 * Have user authentication 
 * Something that would have a sleek design and layout
 * Be able to take information from the internet (book titles, authors etc) <br>
+
 Basically, all the functions of a fully functional organizer app. <br>
 Once I had a rough idea of what I wanted, I had to consider tools. In the back of my head I knew I wasn't going to be able to make the fully functional app, so while looking for tools, I looked for something that could have all the things I wanted, I looked for a tool that specifically saved user data, because no matter what I made, that was a factor that I needed to make for this program to even minimally function.<br> 
 Through the list, my first thoughts were to [Firebase](https://firebase.google.com), since the main thing I heard about it was it functioned well with saving user data. <br> 
