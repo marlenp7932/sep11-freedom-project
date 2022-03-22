@@ -1,5 +1,5 @@
-# Entry 3 - Trying From Scratch
-### 02/11/22
+# Entry 4 - Beginning the MVP
+### 03/21/22
 
 **Intro** <br>
 In the past few weeks, we were still tasked to keep learning our tool. For me, while I continued learning my tool, I also took this time to start building the JS and HTML part of my freedom project.<br>
@@ -68,6 +68,6 @@ In the **E**ngineering **D**esign **P**rocess, I find myself leaning towards mor
 
 *Continue to...* 
 
-[Next Entry](entry04.md) <br>
+[Next Entry](entry05.md) <br>
 *or* <br>
-[Previous](entry02.md)
+[Previous](entry03.md)
