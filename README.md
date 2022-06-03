@@ -9,7 +9,7 @@ For my project, I am making X. This blog will walk through my process of indepen
 
 ## Links
 [Product](https://script.google.com/a/macros/hstat.org/s/AKfycbyWJ5aCiEb0THc00-Q2MWuaMbN5RKYA98rRUrcaBMIPBSg7wPUQRcbC3_hSNm2ripCutw/exec)
-^ Note: Still doesn't function for outside users, but will soon (Last Update 05.31.22) ^
+^ Note: Still doesn't function for outside users, but will soon (Last Update 05.31.22) ^ <br>
 [Presentation](https://docs.google.com/presentation/d/1T_dgVq_rFW6QA1h2_MVlgsfxLJv0uY4Mfa60D8lHIU8/edit?usp=sharing)
 
 ## Implications
