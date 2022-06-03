@@ -1,8 +1,18 @@
-# Entry 6
-##### X/X/XX
+# Entry 5 - Finishing the MVP
+### 06/02/22
 
-Text
+**Expo** <br>
 
-[Previous](entry05.md) | [Next](entry07.md)
+**In-Class Presentations** <br>
 
-[Home](../README.md)
+**Overall Takeaways** <br>
+
+**Sources** <br>
+
+**EDP + Skills** <br>
+
+*Continue to...* 
+
+[Previous](entry05.md) <br>
+*or* <br>
+[Home](README.md)
